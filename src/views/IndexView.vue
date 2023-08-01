@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <h1>首頁</h1>
+  <h1>ssh key</h1>
 </template>
 
 <style lang="scss">
