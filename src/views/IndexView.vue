@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <h1>ssh key</h1>
+  <h1>ssh key test</h1>
 </template>
 
 <style lang="scss">
